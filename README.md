@@ -1,2 +1,2 @@
 # datasets
-Testing datasets for WkNN-FS method
+Experimental data for WkNN-FS method
